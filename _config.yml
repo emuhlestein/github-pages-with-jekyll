@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Learn Github Pages
+author: Ed Muhlestein
+email: emuhlestein@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  This is website is being used to help me learn github pages. I want to create a website
+  that documents the things that I am learning. In the high-tech world it is critical to
+  keep up technologies. Obviously, you can't keep track them there are too many and they
+  are moving too fast. You have to pick and choose. Hopefully it will be something you
+  are passionate about and can make a descent living at.
+  
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+#twitter_username:
+github_username: emuhlestein
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
